@@ -3,4 +3,10 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="logging_in">Loging In …</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="invalid_email">Invalid Email</string>
 </resources>
